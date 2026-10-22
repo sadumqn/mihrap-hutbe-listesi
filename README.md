@@ -1,2 +1,2 @@
-# mihrap-hutbe-listesi
-Doğrulanan kamuya açık hutbe listesi; uygulama kodu ve kişisel veri içermez.
+# Mihrap hutbe listesi
+Yalnızca kamuya açık hutbe başlığı, tarih, PDF ve ses kaynağı bağlantıları içerir. Uygulama kodu veya kişisel veri içermez. Resmî kaynak saatlik GitHub Actions ile kontrol edilir (zamanlama GitHub yoğunluğuna göre gecikebilir). En yeni kaydın bağlantıları ve tarih sıralaması doğrulanmadan önceki liste değiştirilmez. checkedAt son başarılı kontrolü gösterir. İşlem hata verirse Actions altında görünür; GitHub bildirimleri hesap tercihlerine bağlıdır.
