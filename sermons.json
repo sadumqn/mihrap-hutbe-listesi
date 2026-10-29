@@ -1,8 +1,15 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-29T06:22:49.910626+00:00",
+  "checkedAt": "2026-10-29T13:38:31.259525+00:00",
   "source": "https://dinhizmetleri.diyanet.gov.tr/kategoriler/yayinlarimiz/hutbeler/t%C3%BCrk%C3%A7e",
   "items": [
+    {
+      "Title": "Birlik ve Beraberlik",
+      "Day": "2026-10-30",
+      "Date": "30.10.2026",
+      "Pdf": "https://dinhizmetleri.diyanet.gov.tr/Documents/Birlik%20ve%20Beraberlik-.pdf",
+      "Audio": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Birlik%20ve%20Beraberlik-).mp3"
+    },
     {
       "Title": "Aile",
       "Day": "2026-10-23",
