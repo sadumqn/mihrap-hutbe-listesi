@@ -1,8 +1,15 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-12T04:05:48.091258+00:00",
+  "checkedAt": "2026-11-12T13:10:15.149708+00:00",
   "source": "https://dinhizmetleri.diyanet.gov.tr/kategoriler/yayinlarimiz/hutbeler/t%C3%BCrk%C3%A7e",
   "items": [
+    {
+      "Title": "Dijital Mecrada Ahlak",
+      "Day": "2026-11-13",
+      "Date": "13.11.2026",
+      "Pdf": "https://dinhizmetleri.diyanet.gov.tr/Documents/Dijital%20Mecrada%20Ahlak.pdf",
+      "Audio": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Dijital%20Mecrada%20Ahlak).mp3"
+    },
     {
       "Title": "İbadet",
       "Day": "2026-11-06",
