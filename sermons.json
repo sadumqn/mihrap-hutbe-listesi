@@ -1,8 +1,15 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-19T03:48:18.639365+00:00",
+  "checkedAt": "2026-11-19T13:48:16.258411+00:00",
   "source": "https://dinhizmetleri.diyanet.gov.tr/kategoriler/yayinlarimiz/hutbeler/t%C3%BCrk%C3%A7e",
   "items": [
+    {
+      "Title": "Merhamet",
+      "Day": "2026-11-20",
+      "Date": "20.11.2026",
+      "Pdf": "https://dinhizmetleri.diyanet.gov.tr/Documents/Merhamet.pdf",
+      "Audio": "https://dinhizmetleri.diyanet.gov.tr/Documents/Sesli%20Hutbe%20(Merhamet).mp3"
+    },
     {
       "Title": "Dijital Mecrada Ahlak",
       "Day": "2026-11-13",
